@@ -50,7 +50,10 @@ A curated list of awesome prompts, tools, and resources for building AI-powered 
 
 ## Videos
 
-- Coming soon
+- [I can't believe we coded an app with AI in 67 mins (V0, Cursor AI, Replit, Claude AI)](https://www.youtube.com/watch?v=kDcM_xwmP3Q)
+- [Coding with Cursor: Session 1 ft. @shpigford  ](https://www.youtube.com/watch?v=1CC88QGQiEA)
+- [How to Build an AI Web App with Claude 3.5 and Cursor | Full Tutorial](https://www.youtube.com/watch?v=fv1rkctrEPk)
+- [AI Built My App and It's INSANE! (Galileo, Claude, Cursor)](https://www.youtube.com/watch?v=-Drtiy4SHEY)
 
 
 ## Communities
