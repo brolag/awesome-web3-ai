@@ -21,7 +21,7 @@ A curated list of awesome prompts, tools, and resources for building AI-powered 
 ## Cursor Rules
 
 - [Solidity](cursor-rules/solidity.md)
-- [Web3](cursor-rules/web3.md)
+- [Scaffold Eth](cursor-rules/scaffold-eth.md)
 
 ## Tools
 
