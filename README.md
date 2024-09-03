@@ -15,10 +15,7 @@ A curated list of awesome prompts, tools, and resources for building AI-powered 
 
 ## Prompts
 
-- [Smart Contract Generation](prompts/smart-contract-generation.md)
-- [DApp UI/UX Design](prompts/dapp-uiux-design.md)
-- [Tokenomics Analysis](prompts/tokenomics-analysis.md)
-- [Cursor Rules for Web3 Development](prompts/cursor-rules-web3.md)
+- [Cursor Directory](https://cursor.directory/)
 
 
 ## Cursor Rules
@@ -34,35 +31,32 @@ A curated list of awesome prompts, tools, and resources for building AI-powered 
 
 ## Frameworks
 
-- AI-Enhanced Truffle Suite
-- Hardhat + GPT Integration
+- Coming soon
 
 ## Libraries
 
-- EthersAI.js
-- Web3-GPT Python Library
+- Coming soon
+
 
 ## Tutorials
 
-- [Building Your First AI-Powered DApp](https://cursor.directory/learn)
-- [Integrating ChatGPT with MetaMask](https://example.com/chatgpt-metamask-tutorial)
-- [Coding with Cursor: Session 1](https://cursor.directory/learn)
+- Coming soon
+
 
 ## Articles
 
-- [The Future of AI in Blockchain](https://example.com/ai-blockchain-future)
-- [Ethical Considerations for AI in Web3](https://example.com/ai-web3-ethics)
+- Coming soon
+
 
 ## Videos
 
-- [How I code 159% Faster using AI (Cursor + Sonnet 3.5)](https://cursor.directory/learn)
-- [Cursor Composer: MULTI-FILE AI Coding for engineers that SHIP](https://cursor.directory/learn)
-- [How to Build an AI Web App with Claude 3.5 and Cursor | Full Tutorial](https://cursor.directory/learn)
+- Coming soon
+
 
 ## Communities
 
-- [Web3 AI Developers Discord](https://discord.gg/web3ai)
-- [AI Blockchain Subreddit](https://reddit.com/r/aiblockchain)
+- Coming soon
+
 
 ## Contributing
 
