@@ -28,6 +28,7 @@ A curated list of awesome prompts, tools, and resources for building AI-powered 
 - [Cursor](https://www.cursor.com/) - AI-powered code editor for extraordinary productivity
 - [v0.dev](https://v0.dev/) - AI-assisted web development tool
 - [Claude AI](https://claude.ai/) - Advanced AI assistant for coding and analysis
+- [Sharpe MCP Server](https://www.sharpe.ai/docs/mcp-server) - MCP server for crypto market intelligence in AI-assisted Web3 workflows, including funding, futures, options, arbitrage, and narratives
 
 ## Frameworks
 
